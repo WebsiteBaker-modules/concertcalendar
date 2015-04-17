@@ -1,0 +1,42 @@
+div#concert-calendar {
+	width: 95%;
+}
+
+div#concert-calendar .heder_data {
+}
+
+div#concert-calendar .header_data  h1 {
+	margin-bottom: 10px;
+}
+div#concert-calendar .concertborder {
+	border: 0;
+	border-color: #C0C0C0;
+	margin-bottom: 30px;
+}
+div#concert-calendar .concertheading {
+	line-height: 20px;
+	padding: 2px;
+	background-color: #000;
+	color: #FFF;
+	font-weight: bold;
+	border-bottom: 1px solid #fff;
+}
+div#concert-calendar .concert  {
+	padding: 2px;
+}
+
+div#concert-calendar .footer_data {
+text-align: center;
+}
+
+div#concert-calendar .desc {
+}
+
+div#concert-calendar  A.toggle {
+color: #000;
+text-decoration:none;
+border-bottom: 1px dotted #fff;
+outline: none;
+cursor:pointer;
+}
+
